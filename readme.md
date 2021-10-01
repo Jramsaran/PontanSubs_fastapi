@@ -1,3 +1,4 @@
-# This is the update to the PontanSubs website, using fastapi
+# This is the update to the PontanSubs website
 
-- This will make the website asynchronous 
+- This version uses fastapi instead of Flask
+- This will make the website asynchronous
